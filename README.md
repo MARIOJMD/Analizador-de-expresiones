@@ -1,0 +1,1 @@
+Desarrollar una aplicación que me permita escribir una expresión aritmética con operaciones de suma, resta, multiplicación y división, usando operando de un solo dígito, generar el árbol binario de la expresión, mostrar el recorrido preorder y postorder, además de resolver uno de ellos, el que ustedes decidan mediante la aplicación de pilas y/o colas.
